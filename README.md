@@ -9,8 +9,10 @@ For the script to run successfully, the host system should satisfy the following
 It should be running CentOS Stream 9
 It should have at least 8GB of system memory
 
+
 **How to Use**
 
-Download the Bash script install_openstack.sh from the repository.
+Download the Bash script from the repository.
+You can use the script that direct install or use the script that shows the details in verbose.
 
 Give executable permissions to the script:
